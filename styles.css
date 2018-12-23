@@ -18,12 +18,13 @@ header {
 header > h1 {
 	color: #24272E;
 	text-align: center;
+	font-size: 40px;
 	font-family: Asap, sans-serif;
 }
 
 .score-board {
 	margin: 40px auto;
-	border: 3px solid white;
+	border: 4px solid white;
 	border-radius: 10px;
 	text-align: center;
 	width: 200px;
