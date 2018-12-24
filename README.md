@@ -8,10 +8,14 @@ It's a minimalistic game which you can play against the computer
 
 It is mobile friendly and can be played on mobile phones and other devices too
 
+### Links:
+You can play the game on either of the links
+* https://stonepaperscissors.netlify.com
+* https://saideepd.github.io/rock-paper-scissors/
 ## Screenshots
 
 ### Desktop Version:
 ![desktop1](https://user-images.githubusercontent.com/30663492/50386988-7da3b100-0718-11e9-949f-92becc703ff4.png)
 
 ### Mobile Version:
-![mobile](https://user-images.githubusercontent.com/30663492/50386943-e2aad700-0717-11e9-8636-6461549de927.png)
+![mobile](https://user-images.githubusercontent.com/30663492/50401389-30751d00-07b4-11e9-9f3e-7c4c4710717f.png)
